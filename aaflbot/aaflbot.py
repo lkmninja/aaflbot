@@ -590,5 +590,3 @@ async def update_players(ctx):
         await ctx.send(f'Error: {error_message}')
     
 
-# Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run('MTE4MzQ2NTg1MTk5MTYzMzkzMA.GdGNgo.9zgvuc_G55q0ztN7jauLPAfj0g9KhhPzE1hAkk')
